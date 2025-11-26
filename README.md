@@ -22,3 +22,5 @@ Spectrum users although may preffer other techniques for shorter loading times.
 
 
 /AdaptacionZx81.wiki /PreguntasFrecuentes.wiki /OtlaPlayer.wiki /ComoCargar.wiki /K7Zx.wiki /WavForms.wiki /LoadingLinks.wiki /ComoFunciona.wiki /AdjustTool.wiki /OtlaBuilder.wiki /SbbFormat.wiki /CuestionCompresion.wiki /ProyectoOtla.wiki /DefinicionAudio.wiki /HistoriaVersiones.wiki
+
+txh to https://zx-pk.ru/archive/index.php/t-11074.html
