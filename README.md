@@ -1,5 +1,7 @@
 # https://github.com/aibolem/otla/blob/master/wiki
 
+<img width="1351" height="654" alt="image" src="https://github.com/user-attachments/assets/b1210703-f8b1-4a68-b446-634beaef1d80" />
+
 # summary k7zx , wav tool for spectrum
 
 = Introduction =
