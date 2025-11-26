@@ -1,4 +1,4 @@
-# https://github.com/aibolem/otla/edit/master/wiki/
+# https://github.com/aibolem/otla/blob/master/wiki
 
 # summary k7zx , wav tool for spectrum
 
